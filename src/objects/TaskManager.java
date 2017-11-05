@@ -1,12 +1,16 @@
 package objects;
 
+import java.util.ArrayList;
+
 public class TaskManager {
 
-    RandomAssignment(ArrayList<User>, Task) {
+    public void RandomAssignment(ArrayList<User> users, Task task) {
 
     }
 
-    AddTaskToUser(User, Task) {
+    public void AddTaskToUser(User user, Task task) {
 
     }
 }
+
+
