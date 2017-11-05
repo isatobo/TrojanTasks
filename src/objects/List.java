@@ -1,5 +1,7 @@
 package objects;
 
+import java.util.ArrayList;
+
 public class List {
 
     private String name;
