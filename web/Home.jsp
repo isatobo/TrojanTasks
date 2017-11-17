@@ -30,41 +30,19 @@
 
 <div class="services container">
     <div class="row">
-        <section class="col-md-4">
-            <h1> Headline</h1>
-            <p>
-                Blah Blaj as=dfsdalkfj
-                alskdjfsdkjfs
-                aslkdfjslkf
-            </p>
-        </section>
 
         <section class="col-md-4">
-            <h1> Headline</h1>
-            <p>
-                Blah Blaj as=dfsdalkfjsldkf
-                alskdjfsdkjfs
-                aslkdfjslkf
-            </p>
-        </section>
-
-        <section class="col-md-4">
-            <h1> Headline</h1>
-            <p>
-                Blah Blaj as=dfsdal
-                alskdjfsdkjfs
-                aslkdfjslkf
-            </p>
+            <img src="Home.jsp">
         </section>
 
         <ul class="nav nav-pills">
             <!-- <li class="dropdown-header"> For you </li> -->
             <li class="active"> <a href="#"> Home </a> </li>
-            <li> <a href="#"> Profile </a> </li>
-            <li> <a href="#"> Calendar </a> </li>
-            <li> <a href="#"> Chore Assigner </a> </li>
+            <li> <a href="Profile.jsp"> Profile </a> </li>
+            <li> <a href="Calendar.jsp"> Calendar </a> </li>
+            <li> <a href="ChoreAssigner.jsp"> Chore Assigner </a> </li>
+            <li> <a href="Lists.jsp"> Lists </a> </li>
         </ul>
-
     </div>
 </div>
 
